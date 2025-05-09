@@ -1,0 +1,15 @@
+{
+  "name": "zenn_library",
+  "version": "1.0.0",
+  "description": "📝 Zenn に投稿している記事・本・画像などのコンテンツを管理するためのリポジトリです。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zenn-cli": "^0.1.159"
+  }
+}
