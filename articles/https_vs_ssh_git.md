@@ -1,5 +1,5 @@
 ---
-title: "HTTPSとSSHの違いと使い分け"
+title: "GitHub: HTTPSとSSHの違いと使い分け"
 emoji: "🔐"
 type: "tech"
 topics: ["Git", "SSH", "HTTPS"]
