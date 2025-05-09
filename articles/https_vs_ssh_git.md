@@ -1,3 +1,11 @@
+---
+title: "HTTPSとSSHの違いと使い分け"
+emoji: "🔐"
+type: "tech"
+topics: ["Git", "SSH", "HTTPS"]
+published: true
+---
+
 ## はじめに
 
 GitHub を VSCode 上で利用していた際、GitHub のウェブサイトからコピーした HTTPS のリポジトリ URL を使ってリモートを登録したところ、`repository not found` のエラーが出て上手くいきませんでした。URL 自体に間違いはなかったため、原因を調べる中で、**HTTPS と SSH の違い**が影響していることが分かりました。
